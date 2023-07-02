@@ -3,6 +3,8 @@
 <head>
   <title>Registro de Usuário</title>
   <link rel="stylesheet" type="text/css" href="./Master/css/signup.css">
+
+
 </head>
 <?php include './Master/includes/header.php'; ?>
 <body>

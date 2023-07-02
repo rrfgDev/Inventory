@@ -1,5 +1,8 @@
-
-
+body {
+  background-image: url('../img/Background.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
 .form {
     background-color: white;
     padding: 2.5em;
@@ -36,7 +39,7 @@
   }
   
   .form--input:focus {
-    border: 1px solid #639;
+    border: 1px solid #0C2633;
     outline: none;
   }
   
@@ -55,7 +58,7 @@
   }
   
   .checkbox, input[type="checkbox"] {
-    accent-color: #639;
+    accent-color: #0C2633;
   }
   
   .form--submit {
@@ -63,15 +66,18 @@
     padding: 0.625em;
     border-radius: 5px;
     color: white;
-    background-color: #639;
-    border: 1px dashed #639;
+    background-color: #0C2633;
+    border: 1px dashed #0C2633;
     cursor: pointer;
   }
   
   .form--submit:hover {
-    color: #639;
-    background-color: white;
-    border: 1px dashed #639;
+    color: #ffffff;
+    background-color: rgb(86, 9, 124);
+    border: 1px dashed #0C2633;
     cursor: pointer;
     transition: 0.5s;
+  }
+  button{
+    background-color: #0C2633;
   }
