@@ -22,7 +22,7 @@
 
 	<nav class="navbar navbar-expand-md navbar-light bg-light">
       <a class="navbar-brand" href="">
-        <img src="./img/logo ci horizontal.png" alt="Logomarca" height="49">
+        <img src="./Master/img/logo ci horizontal.png" alt="Logomarca" height="69">
       </a>
 
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"

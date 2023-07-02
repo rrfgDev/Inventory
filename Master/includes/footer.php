@@ -12,7 +12,7 @@
 		style="background-color: transparent; border: none;"
         href="#!"
         role="button"
-        ><img src="./img/icons/facebook.png"height="20">
+        ><img src="./Master/img/icons/facebook.png"height="30">
       ></a>
 
       <!-- Twitter -->
@@ -21,7 +21,7 @@
 		style="background-color: transparent; border: none"
         href="#!"
         role="button"
-        > <img src="./img/icons/twitter.png"height="20">
+        > <img src="./Master/img/icons/twitter.png"height="30">
       ></a>
 
       <!-- Google -->
@@ -30,7 +30,7 @@
 		style="background-color: transparent; border: none"
         href="https://moodle.sistemadivinaprovidencia.org/"
         role="button"
-        ><img src="./img/icons/cromada.png"height="20">
+        ><img src="./Master/img/icons/cromada.png"height="30">
       ></a>
 
       <!-- Instagram -->
@@ -39,7 +39,7 @@
 		style="background-color: transparent; border: none"
         href="#!"
         role="button"
-        ><img src="./img/icons/instagram.png"height="20">
+        ><img src="./Master/img/icons/instagram.png"height="30">
       ></a>
 
       <!-- Linkedin -->
@@ -48,7 +48,7 @@
 		style="background-color: transparent; border: none"
         href="#!"
         role="button"
-        > <img src="./img/icons/linkedin.png"height="20">
+        > <img src="./Master/img/icons/linkedin.png"height="30">
       ></a>
       <!-- Github -->
       <a
@@ -56,7 +56,7 @@
 		style="background-color: transparent; border: none"
         href="#!"
         role="button"
-        > <img src="./img/icons/github.png"height="20">
+        > <img src="./Master/img/icons/github.png"height="30">
       ></a>
     </section>
     <!-- Section: Social media -->

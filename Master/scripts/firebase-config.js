@@ -10,12 +10,4 @@ const firebaseConfig = {
 };
 
 // Inicializar o Firebase com a configuração fornecida
-  firebase.initializeApp(firebaseConfig);
-
-// Inicializar o aplicativo com a configuração do Firebase
-const app = initializeApp(firebaseConfig);
-
-// Obter uma instância do serviço de autenticação do Firebase
-var auth = firebase.auth();
-
-// Obter uma instância do serviço de banco
+firebase.initializeApp(firebaseConfig);
